@@ -10,3 +10,5 @@ User.destroy_all
 
 User.create(name: "Blake", email: "stuffhere@gmail.com", location: "Denver, CO")
 
+Sightings.create(animal: "Elk", location: "Durango, CO", date: "9/12/19", time: "9:10AM" )
+
